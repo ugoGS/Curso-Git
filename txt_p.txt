@@ -41,3 +41,24 @@ Agent pid 2827
 Lenovo@LAPTOP-79G8TIB6 MINGW64 ~/proyecto1 (master)
 $ ssh-add ~/.ssh/id_rsa
 Identity added: /c/Users/Lenovo/.ssh/id_rsa (henri.garsan@outlook.com)
+
+Lenovo@LAPTOP-79G8TIB6 MINGW64 ~/proyecto1 (master)
+$ git log --all --graph --decorate --oneline
+* e4c2931 (HEAD -> master, origin/master) commit ssh
+* 172d9dc ssh
+* 2c0ca0c Commit desde github
+* ce1f084 notas
+* 024ed7d antes de pull and push
+*   aed6f2e Merge branch 'rama3'
+|\
+| * d3f290e (rama3) add
+* | ef18ff5 fix
+|\|
+| * 15f4081 rama3
+* | e4ca11b antes de merge
+|/
+* 677afb4 anadido
+* 1529865 2do commit
+* 1347227 1er comit
+* cf669c3 (origin/main) Initial commit
+
