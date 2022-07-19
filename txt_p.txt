@@ -4,6 +4,7 @@ $ git pull origin master --allow-unrelated-histories
 
 git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
 
+Crear llave SSH:
 
 Lenovo@LAPTOP-79G8TIB6 MINGW64 ~/proyecto1 (master)
 $ ssh-keygen -t rsa -b 4096 -C "henri.garsan@outlook.com"
