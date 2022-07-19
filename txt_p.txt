@@ -1,5 +1,7 @@
 Notas: 
 
-$ git pull origin master --allow-unrelated-histories
+$ git pull origin master --allow-unrelated-histories 
 
 git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+
+add
